@@ -1,5 +1,13 @@
 # Computer-Vision
 Computer Vision using OpenCV-Python
+<img src ="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>&nbsp
+<img src ="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"></a>&nbsp
+<img src ="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"></a>&nbsp
+<img src ="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"></a>&nbsp
+<img src ="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anacondae&logoColor=white"></a>&nbsp
+
+
+
 
 
 ## Development environment
@@ -7,7 +15,6 @@ Computer Vision using OpenCV-Python
 * Docker Container
 * VS CODE
 * OPEN_CV
-
 
 ## Languages
 * Python
